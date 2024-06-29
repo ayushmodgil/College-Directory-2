@@ -1,0 +1,91 @@
+.bg-body-tertiary{
+    background-color:#291892 !important;
+   padding: 0 !important;
+   color: white;
+}
+.home{
+  background: #361be9;
+  border: 1px solid white;
+  color: white;
+}
+
+.navbar-brand{padding: 50px !important;}
+
+.toggle-btn{
+    background:white;
+  }
+
+  .Predictor2024{
+    background: #291892;
+    color: white;
+  }
+  .animate-img{
+    margin-left: -45px;
+    margin-top: -25px;
+  }
+
+  .predict-btn{
+    background-color:#E9E9EC;
+    box-shadow: 0px 0px 8px 0px #00000014;
+
+  }
+  .box-use{
+    background-color:#E9E9EC ;
+    box-shadow: 0px 0px 8px 0px #00000014;
+  }
+  .circle-box{
+    width: 300px;
+    height: 300px;
+    background-color: #F7F7F7;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 0px 15px 0px #00000014;
+  }
+
+  .oval-shape{
+    
+        border-radius: 50%;
+        background-color:#291892;
+        width: 200px;
+        height: 90px;
+        color: white;
+      }
+  .hr-tag{
+    border: 1px dotted;
+  }
+  .arrow {
+    
+    width: 2px;
+    height: 80px;
+    background: lightgray;
+    margin-top: 18px;
+    margin-left: 12px;
+}
+
+.checked {
+  color: orange;
+}
+.circle-box-1{
+  height: 30px;
+  width: 30px;
+  border: 1px solid gray;
+  border-radius: 50%;
+}
+
+/* --Footer-- */
+.Newsletter{
+  background: linear-gradient(210.84deg, rgba(51, 0, 204, 0.08) -52.8%, rgba(244, 180, 163, 0.11) 40.08%, rgba(175, 244, 198, 0.35) 110.16%);
+   width: auto;
+   min-height: 250px;
+}
+.footer-bg{
+  background: black;
+  color: white;
+}
+.li-name li{
+  list-style: none;
+}
